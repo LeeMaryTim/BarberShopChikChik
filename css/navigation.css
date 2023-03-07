@@ -1,0 +1,16 @@
+.navigation__list{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    gap: 32px ;
+}
+
+.navigation__link{
+    text-decoration: none;
+    color: #F6F3E3;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    text-transform: uppercase;
+}
+
