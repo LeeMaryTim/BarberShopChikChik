@@ -14,10 +14,11 @@
     }
 }
 
-@media (max-width: 540px){
+@media (max-width: 560px){
     .hero__title{
         padding: 16px 0;
         font-size: 24px;
         margin-bottom: 16px;
+        max-width: 420px;
     }
 }
